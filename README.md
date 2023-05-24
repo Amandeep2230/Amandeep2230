@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi, I'm Aman 👋
 
-<p> I am a Computer Science Master's graduate with expertise in software engineering and front-end development. Skilled in Python, Java, JavaScript, React, NextJS, Tailwind CSS, HTML, CSS, and more. I have internship experience as a software quality assurance analyst and have developed a variety of projects, including front-end, full-stack, and Android apps. Proficient in cloud technologies like Azure and Firebase for scalable applications. Committed to producing high-quality software and actively seeking opportunities to contribute to exciting projects on GitHub. </p>
+<p> Passionate software and frontend engineer skilled in Python, Java, JavaScript, React, NextJS, Tailwind CSS, HTML, CSS, and more. My GitHub profile showcases clean and efficient code, user-friendly UIs, and diverse projects including full-stack and Android apps. Actively contributing to open source and thriving in collaborative environments. Open to exciting opportunities and collaborations. Let's make an impact through code! </p>
 
-<h3> Language & Technologies </h3>
+### Language & Technologies
 ```javascript
-proficient: "Python, JavaScript, React, HTML, CSS, SQL, Firebase, NextJS, TailwindCSS"
-familiar: "Java, PHP, MongoDB, Azure"
+proficient: "Python, JavaScript, React, HTML, CSS, NextJS, TailwindCSS, SQL, Firebase"
+familiar: "Java, MongoDB, C++, Azure"
 learning: "Go"
 ```
 
