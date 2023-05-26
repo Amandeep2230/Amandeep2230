@@ -9,5 +9,5 @@ familiar: "Java, MongoDB, C++, Azure, PHP, NodeJS"
 learning: "Go"
 ```
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amandeep2230&show_icons=true&theme=radical)
+<!-- ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amandeep2230&show_icons=true&theme=radical) -->
 
