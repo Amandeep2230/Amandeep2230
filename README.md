@@ -6,7 +6,7 @@
 ```javascript
 proficient: "Python, JavaScript, React, HTML, CSS, NextJS, TailwindCSS, SQL, Firebase"
 familiar: "Java, MongoDB, C++, Azure, PHP, NodeJS"
-learning: "Go"
+learning: "GoLang"
 ```
 
 <!-- ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amandeep2230&show_icons=true&theme=radical) -->
