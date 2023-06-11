@@ -5,7 +5,7 @@
 ### Language & Technologies
 ```javascript
 proficient: "Python, JavaScript, React, HTML, CSS, NextJS, TailwindCSS, SQL, Firebase"
-familiar: "Java, MongoDB, C++, Azure, PHP, NodeJS"
+familiar: "Java, MongoDB, C++, Azure, PHP, NodeJS", "PostgreSQL"
 learning: "GoLang"
 ```
 
